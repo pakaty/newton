@@ -1,7 +1,6 @@
 *.o
 program
 *.swp
-*.gif
 *.gp
 *.dat
 tags
